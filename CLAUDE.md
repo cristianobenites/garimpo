@@ -15,4 +15,5 @@ Este projeto publica pela integração GitHub → Vercel: **push na `main` = sit
 
 - GitHub: repositório `garimpo` (conta cristianobenites)
 - Vercel: projeto `garimpo` (conta cristianobenites)
-- Supabase: projeto `garimpo` (ver `~/.garimpo/` para a senha do banco)
+- Supabase: AINDA NÃO CRIADO (limite de 2 projetos Free por usuário). Quando criar, usar a senha de `~/.garimpo/senha-banco-supabase.txt` e guardar URL/anon key com `npx vercel env add`.
+- Site no ar: https://garimpo-mu.vercel.app
