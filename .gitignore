@@ -4,3 +4,6 @@ node_modules/
 .vercel/
 .supabase/
 .DS_Store
+
+.vercel
+.env*
